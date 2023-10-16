@@ -100,7 +100,8 @@ public class practicejava{
         int t =sc.nextInt();
         for(int i = 1; i<=10; i++){
             System.out.println(t + "*" + i + "=" + t*i);
-        }*/
+        }
+
         //question 8
         int val =1;
         for(int i = 1; i<=n; i++){
@@ -109,6 +110,10 @@ public class practicejava{
                 val++;
             }
             System.out.println();
+        }
+        */
+        for(int i=1; i<=n; i++){
+            System.out.println(i);
         }
 
 
